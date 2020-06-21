@@ -1,5 +1,5 @@
-'use strict';
-const assert = require('assert');
+// 'use strict';
+// const assert = require('assert');
 
 const arrOfPeople = [
     {
